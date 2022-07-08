@@ -1,0 +1,7 @@
+n=(input())
+p=''
+for i in n:
+    if i.isdigit():
+        p=p+i
+print(p)
+        
